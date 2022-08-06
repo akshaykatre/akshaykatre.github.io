@@ -1,5 +1,5 @@
 ---
-theme: pages-themes/minimal@v0.2.0
+theme: minima
 layout: page 
 title: "Posts" 
 permalink: /posts/
