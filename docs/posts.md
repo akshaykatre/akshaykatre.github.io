@@ -10,6 +10,6 @@ These are my posts:
 
 {% for post in site.posts %}
    | {{ post.title }} | 
-   | {{ post.excerpt }} |
-   | {{ post.permalink }} | 
+    {{ post.excerpt }} 
+   {{ post.url }}  {{ site.url }}
 {%- endfor -%}
