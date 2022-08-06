@@ -1,3 +1,4 @@
 theme: minima
 title: Data blog 
 description: Obersvations and tips to help me navigate through the data jungle 
+excerpt_separator: <!--more-->
