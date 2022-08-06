@@ -11,5 +11,5 @@ These are my posts:
 {% for post in site.posts %}
    | {{ post.title }} | 
    | {{ post.excerpt }} |
-   | {{ post.url }} | 
+   | {{ post.permalink }} | 
 {%- endfor -%}
