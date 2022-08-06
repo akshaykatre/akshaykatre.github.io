@@ -9,5 +9,7 @@ These are my posts:
 {{ page.title | upcase}}
 
 {% for post in site.posts %}
-   | {{ post.title }} {{ post.excerpt }} |
+   | {{ post.title }} | 
+   | {{ post.excerpt }} |
+   | {{ post.url }} | 
 {%- endfor -%}
