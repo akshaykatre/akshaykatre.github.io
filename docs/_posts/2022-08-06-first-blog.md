@@ -6,5 +6,5 @@ tags: data-science
 ---
 
 ## This is a title for this page
-excerpt_separator: <!--more-->
+<!--more-->
 building a data team starting from data scientists and engineers rather than analysts 
