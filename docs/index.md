@@ -1,4 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome 
+
+I am obsessed with building clean, simple solutions for complex data problems.   
+
+My experience spans across various data roles, from data scientist/ consultant, to analyst, to engineer. My desire to build efficient data piplines began with my experience at [CERN](https://www.home.cern/) during my thesis that covered the [searches for magnetic monopoles at the LHC](http://dpnc.unige.ch/THESES/THESE_KATRE.pdf). 
+
+
+<!-- ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/akshaykatre/akshaykatre.github.io/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -34,4 +41,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out. -->
