@@ -1,4 +1,4 @@
-<!-- ## Welcome  -->
+# Welcome 
 
 I am obsessed with building clean, simple solutions for complex data problems.   
 
